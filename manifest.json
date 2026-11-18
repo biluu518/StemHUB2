@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "STEM HUB CLUB",
+  "short_name": "STEM HUB",
+  "description": "STEM HUB CLUB - Tokuma Secondary School: exams, mock exams and short notes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0f18",
+  "theme_color": "#071a4a",
+  "lang": "en",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
